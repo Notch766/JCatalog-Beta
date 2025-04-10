@@ -1,0 +1,1 @@
+"# JCatalog-Beta"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Notch766/JCatalog-Beta.gitgit push -u origin main
